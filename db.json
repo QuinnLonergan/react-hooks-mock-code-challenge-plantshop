@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Aloe once more",
+      "image": "./images/aloe.jpg",
+      "price": "8",
+      "id": 19
+    },
+    {
+      "name": "Aloe v2",
+      "image": "./images/aloe.jpg",
+      "price": "9",
+      "id": 20
+    },
+    {
+      "name": "Aloe once more",
+      "image": "./images/aloe.jpg",
+      "price": "90",
+      "id": 21
     }
   ]
 }
